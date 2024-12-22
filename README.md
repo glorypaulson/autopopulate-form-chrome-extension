@@ -13,12 +13,6 @@ AutoPopulate is a Chrome extension designed to simplify form filling on web page
 
 ---
 
-## Installation
-
-1. Clone the repository or download the source code.
-   ```bash
-   git clone https://github.com/your-username/autopopulate-extension.git
-
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.
 
