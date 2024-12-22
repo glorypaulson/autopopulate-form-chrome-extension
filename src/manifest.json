@@ -1,0 +1,21 @@
+{
+    "name": "MyChromeExtension",
+    "version": "1",
+    "description": "Your App Description",
+    "manifest_version": 3,
+    "action": {
+        "default_title": "Title",
+        "default_popup": "index.html"
+    },
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+    "content_scripts": [
+        {
+          "matches": ["<all_urls>"],
+          "js": ["content-script.js"]
+        }
+      ]
+}
