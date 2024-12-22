@@ -1,4 +1,24 @@
-# MyChromeExtension
+# AutoPopulate Form Extension
+
+## Overview
+
+AutoPopulate is a Chrome extension designed to simplify form filling on web pages. With a single click on the "AutoPopulate" button, the extension dynamically populates form inputs with pre-defined dummy data. The extension is especially useful for developers and testers who need to frequently fill out forms during development.
+
+---
+
+## Features
+
+- **Dynamic Data Population**: Automatically populates form inputs based on their `formControlName` or other attributes.
+- **Easy-to-Use**: Simple, intuitive interface with a single click to populate forms.
+
+---
+
+## Installation
+
+1. Clone the repository or download the source code.
+   ```bash
+   git clone https://github.com/your-username/autopopulate-extension.git
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.
 
